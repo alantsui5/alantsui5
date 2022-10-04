@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Shikoto Fiction Parser Project**
 
-- 🌱 I’m currently learning **Algorithms**
+- 🌱 I’m currently learning **Algorithms and Data Structure**, **Product Design**
 
 - 👨‍💻 All of my projects are available at [https://alantsui5.github.io/CatSheet/](https://alantsui5.github.io/CatSheet/)
 
