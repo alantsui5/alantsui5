@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alan</h1>
-<h3 align="center">A Passionate Developer | Product Manager | Computer Engineering</h3>
+<h3 align="center">Fintech Consultant</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alantsui5&label=Profile%20views&color=0e75b6&style=flat" alt="alantsui5" /> </p>
@@ -16,8 +16,6 @@
 - 📝 I regularly write articles on [https://alantsui5.github.io/CatSheet/](https://alantsui5.github.io/CatSheet/)
 
 - 💬 Ask me about **React, Vue, Angular, ExpressJS, C++, Linux**
-
-- ⚡ Fun fact **My favorite singer is Taeyeon**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
