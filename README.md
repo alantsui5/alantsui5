@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Algorithms and Data Structure**, **Product Design**
 
-- 👨‍💻 All of my projects are available at [https://alantsui5.github.io/CatSheet/](https://alantsui5.github.io/CatSheet/)
+- 👨‍💻 All of my projects are available at [https://portfolio-website-alan-tsui.vercel.app/](https://portfolio-website-alan-tsui.vercel.app/)
 
 - 📝 I regularly write articles on [https://alantsui5.github.io/CatSheet/](https://alantsui5.github.io/CatSheet/)
 
