@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Shikoto Fiction Parser Project**
 
-- 🌱 I’m currently learning **Algorithms and Data Structure**, **Product Design**
+- 🌱 I’m currently learning **Algorithms and Data Structure**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-website-alan-tsui.vercel.app/](https://portfolio-website-alan-tsui.vercel.app/)
 
